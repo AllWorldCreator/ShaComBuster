@@ -1,0 +1,15 @@
+C:\Users\Тимур\source\repos\ShaComBuster\bin\Debug\ShaComBuster.exe.config
+C:\Users\Тимур\source\repos\ShaComBuster\bin\Debug\ShaComBuster.exe
+C:\Users\Тимур\source\repos\ShaComBuster\bin\Debug\ShaComBuster.pdb
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.csprojAssemblyReference.cache
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.Properties.Resources.resources
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.csproj.GenerateResource.cache
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.exe
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.pdb
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.ShaComBuster.resources
+C:\Users\Тимур\source\repos\ShaComBuster\bin\Debug\ShaComBuster.exe.manifest
+C:\Users\Тимур\source\repos\ShaComBuster\bin\Debug\ShaComBuster.application
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.TrustInfo.xml
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.exe.manifest
+C:\Users\Тимур\source\repos\ShaComBuster\obj\Debug\ShaComBuster.application
