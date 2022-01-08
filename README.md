@@ -1,2 +1,2 @@
 # ShaComBuster
-Speed up compilating shaders in UE4
+Speed up compilaton shaders in UE4
